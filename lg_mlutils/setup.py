@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='lg_mlutils',
+    name='LG_MLUtils',
     version='0.1',
     packages=find_packages(),
     description='My humble generic ML utils, primarily for my own projects.',
