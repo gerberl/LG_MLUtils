@@ -5,7 +5,8 @@ My humble contribution of generic ML utils to support my own projects.
 import numpy as np
 from sklearn.utils import check_array
 
-
+# this is mine - one needs to
+# pip install git+https://github.com/gerberl/disfunctools.git
 from disfunctools import (
     pairwise_lst_el_combinations, pairwise_lst_el_chain,
     pairwise_lst_1st_vs_rest
